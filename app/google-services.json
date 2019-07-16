@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "633815507127",
+    "firebase_url": "https://aplikasidistribusi.firebaseio.com",
+    "project_id": "aplikasidistribusi",
+    "storage_bucket": "aplikasidistribusi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633815507127:android:9934554816bbb381",
+        "android_client_info": {
+          "package_name": "com.arif.aplikasidistribusi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633815507127-bcn9j7bdojuicscar45qupetcgd257jp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arif.aplikasidistribusi",
+            "certificate_hash": "dde5fe593a493ebff59cb171f57b191cac5740a8"
+          }
+        },
+        {
+          "client_id": "633815507127-tn2gu1arb0dc8aba8bk5s8p2611iopu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlBZ8WXYNAaFgatbkUOijupjhghR99kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633815507127-tn2gu1arb0dc8aba8bk5s8p2611iopu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
